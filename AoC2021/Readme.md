@@ -8,7 +8,7 @@ After pondering various functions of `scikit-learn`, `scipy`, and `numpy.linalg`
 
 Actually, it is sufficient to calculate a couple of values around the mean and return the minimum. Furthermore:
 - **practice logical thinking**: sometimes I do futile mistakes when expressing ideas in the code,
-- **learn about and aplly algorithms**: I try to find useful functions for the task.
+- **learn about and apply algorithms**: I try to find useful functions for the task.
 
 Anyway, I need:
 - pay more attention when expressing ideas in the code, maybe write down a little more documentation including pseudocode,
