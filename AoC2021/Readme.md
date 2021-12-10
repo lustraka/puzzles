@@ -94,7 +94,26 @@ Anyway, I need:
         "id": "TnFAd8h1l8NI"
       },
       "source": [
-        "## "
+        "## [Day x](https://adventofcode.com/2021/day/x): \n",
+        "### Part I\n",
+        "- **Unknown**: \n",
+        "- **Data**: \n",
+        "- **Condition**:\n",
+        "  - \n",
+        "  - \n",
+        "- **Plan**:\n",
+        "  - \n",
+        "\n",
+        "----\n",
+        "\n",
+        "### Part II\n",
+        "- **Unknown**: \n",
+        "- **Data**: \n",
+        "- **Condition**:\n",
+        "  - \n",
+        "  - \n",
+        "- **Plan**:\n",
+        "  - \n"
       ],
       "id": "TnFAd8h1l8NI"
     },
@@ -104,7 +123,7 @@ Anyway, I need:
         "id": "HZXVSS9bl736"
       },
       "source": [
-        ""
+        "example = \"\"\"\"\"\""
       ],
       "id": "HZXVSS9bl736",
       "execution_count": null,
