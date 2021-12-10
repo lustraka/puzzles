@@ -14,7 +14,30 @@ Anyway, I need:
 - pay more attention when expressing ideas in the code, maybe write down a little more documentation including pseudocode,
 - carve out proper mathematical models, such as [arithmetic series](https://mathworld.wolfram.com/ArithmeticSeries.html) in the Day 7 puzzle.
 
-## Template
+## Templates
+```markdown
+## [Day x](https://adventofcode.com/2021/day/x): 
+### Part I
+- **Unknown**: 
+- **Data**: 
+- **Condition**:
+  - 
+  - 
+- **Plan**:
+  - 
+
+----
+
+### Part II
+- **Unknown**: 
+- **Data**: 
+- **Condition**:
+  - 
+  - 
+- **Plan**:
+  - 
+
+```
 ```python
 {
   "nbformat": 4,
