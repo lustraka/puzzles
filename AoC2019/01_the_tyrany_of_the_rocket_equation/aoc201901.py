@@ -7,7 +7,7 @@ def parse(puzzle_input):
 
 def part1(data):
     """Solve part 1"""
-    return sum(mass // 2 - 2 for mass in data)
+    return sum(mass // 3 - 2 for mass in data)
 
 def part2(data):
     """Solve part 2"""
