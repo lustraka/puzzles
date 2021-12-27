@@ -1,4 +1,5 @@
 # Advent of Code 2019
+[AoC 2019](https://adventofcode.com/2019) | [RealPython: AoC Tutorial](https://realpython.com/python-advent-of-code/#practicing-advent-of-code-day-1-2019) |
 
 ## A Starting Template
 ```python
