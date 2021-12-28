@@ -11,3 +11,8 @@ However, there are several advantages to taking some time off to practice with p
 
 On top of all of this, challenging yourself with a programming puzzle is often pretty fun! When you add it all up, setting aside some time for puzzles can be very rewarding.
 See RealPython > [Advent of Code: Solving Your Puzzles With Python](https://realpython.com/python-advent-of-code/).
+
+## References
+- RealPython: [Python - Pathlib](https://realpython.com/python-pathlib/)
+- RealPython: [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/)
+- RealPython: [Walrus Operator](https://realpython.com/python-walrus-operator/)

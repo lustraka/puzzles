@@ -10,8 +10,8 @@ def example1():
     return aoc.parse(puzzle_input)
 
 @pytest.fixture
-def example2():
-    puzzle_input = (PUZZLE_DIR / "example2.txt").read_text().strip()
+def input():
+    puzzle_input = (PUZZLE_DIR / "input.txt").read_text().strip()
     return aoc.parse(puzzle_input)
 
 def test_parse_example1(example1):
@@ -22,7 +22,14 @@ def test_part1_example1(example1):
     """Test part 1 on example input"""
     assert aoc.part1(example1) == 2 + 2 + 654 + 33583
 
-@pytest.mark.skip(reason="Not implemented")
-def test_part2_example2(example2):
+def test_all_fuel():
+    """Test that fuel can be calculated recurively"""
+    assert aoc.all_fuel(1969) == 966
+
+def test_part2_example1(example1):
     """Test part 2 on example input"""
-    assert aoc.part2(example2) == ...
+    assert aoc.part2(example1) == 2 + 2 + 966 + 50346
+
+def test_part2bis_example1(example1):
+    """Test part 2 bis on example input"""
+    assert aoc.part2bis(example1) == 2 + 2 + 966 + 50346
