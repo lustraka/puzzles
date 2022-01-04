@@ -2,9 +2,82 @@
 [AoC 2019](https://adventofcode.com/2019) | [RealPython: AoC Tutorial](https://realpython.com/python-advent-of-code/#practicing-advent-of-code-day-1-2019) |
 
 ## Contents
+- [Day 1: ]()
+	- Part I
+	- Part II
+- [Day 2: ]()
+	- Part I
+	- Part II
 - [Day 3 : Crossed Wires](./03_crossed_wires/aoc201903.ipynb)
     - ⭐ Part I solved using a numpy matrix.
     - Part II needs some tree search algorithm.
+- [Day 4: ]()
+	- Part I
+	- Part II
+- [Day 5: ]()
+	- Part I
+	- Part II
+- [Day 6: ]()
+	- Part I
+	- Part II
+- [Day 7: ]()
+	- Part I
+	- Part II
+- [Day 8: ]()
+	- Part I
+	- Part II
+- [Day 9: ]()
+	- Part I
+	- Part II
+- [Day 10: ]()
+	- Part I
+	- Part II
+- [Day 11: ]()
+	- Part I
+	- Part II
+- [Day 12: ]()
+	- Part I
+	- Part II
+- [Day 13: ]()
+	- Part I
+	- Part II
+- [Day 14: ]()
+	- Part I
+	- Part II
+- [Day 15: ]()
+	- Part I
+	- Part II
+- [Day 16: ]()
+	- Part I
+	- Part II
+- [Day 17: ]()
+	- Part I
+	- Part II
+- [Day 18: ]()
+	- Part I
+	- Part II
+- [Day 19: ]()
+	- Part I
+	- Part II
+- [Day 20: ]()
+	- Part I
+	- Part II
+- [Day 21: ]()
+	- Part I
+	- Part II
+- [Day 22: ]()
+	- Part I
+	- Part II
+- [Day 23: ]()
+	- Part I
+	- Part II
+- [Day 24: ]()
+	- Part I
+	- Part II
+- [Day 25: ]()
+	- Part I
+	- Part II
+
 
 ## A Starting Template
 ```python
