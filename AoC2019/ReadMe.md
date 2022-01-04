@@ -1,7 +1,7 @@
 # Advent of Code 2019
 [AoC 2019](https://adventofcode.com/2019) | [RealPython: AoC Tutorial](https://realpython.com/python-advent-of-code/#practicing-advent-of-code-day-1-2019) |
 
-## Observations
+## Contents
 - [Day 3 : Crossed Wires](./03_crossed_wires/aoc201903.ipynb)
     - ⭐ Part I solved using a numpy matrix.
     - Part II needs some tree search algorithm.
