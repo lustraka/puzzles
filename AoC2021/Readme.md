@@ -1,37 +1,41 @@
 # Advent of Code 2021 Puzzles 
 [Advent of Code 2021](https://adventofcode.com/2021) | [MathWorld](https://mathworld.wolfram.com/)
 
-## Contents ⭐
-- [Day 1: ]()
-	- Part I
-	- Part II
-- [Day 2: ]()
-	- Part I
-	- Part II
-- [Day 3: ]()
-	- Part I
-	- Part II
-- [Day 4: ]()
-	- Part I
-	- Part II
-- [Day 5: ]()
-	- Part I
-	- Part II
-- [Day 6: ]()
-	- Part I
-	- Part II
-- [Day 7: ]()
-	- Part I
-	- Part II
+## Contents 
+- [Day 1: Sonar Sweep](AoC_01.ipynb)
+	- ⭐ Part I uses `pd.Series.diff`.
+	- ⭐ Part II uses `pd.Series.rolling` and `pd.query`.
+- [Day 2: Dive!](AoC_01.ipynb)
+	- ⭐ Part I uses `pd.DataFrame` to parse instruction and calculate a position.
+	- ⭐ Part II includes a third variable *aim* into a calculation.
+- [Day 3: Binary Diagnostic](AoC_01.ipynb)
+	- ⭐ Part I uses `np.mean` to calculate proportions and a function to convert binary value (str) to int:
+	```python
+	def bin_to_int(list):
+  		return int('0b'+"".join(np.array(list).astype(str)), base=2)
+	```
+	- ⭐ Part II needs `pd.DataFrame` and step by step filtering of rows.
+- [Day 4: Giant Squid](AoC_01.ipynb)
+	- ⭐ Part I uses `set.difference()` and `set.issubset()`.
+	- ⭐ Part II uses `list.remove()` to remove winning boards and a couple of conditional statements to get results.
+- [Day 5: Hydrothermal Venture](AoC_01.ipynb)
+	- ⭐ Part I calculates overlapping horizontal and vertical lines using `np.array[np.array>1]`. Examines `np.max(axis=.)` for a multidimensional array.
+	- ⭐ Part II solve same thing including diagonal lines. Includes a practice with Dürer’s magic square.
+- [Day 6: Lanternfish](AoC_01.ipynb)
+	- ⭐ Part I solved with a class `Laternfish` and a list `school`.
+	- ⭐ Part II solved with `np.array`, `np.roll`, and `np.concatenate` (exponential population growth requires a better memory management).
+- [Day 7: The Treachery of Whales](AoC_01.ipynb)
+	- ⭐ Part I uses `sklearn.metrics.mean_absolute_error` and `np.median`.
+	- ⭐ Part II illustrates difference between median (L1 norm - absolute value) and mean (L2 norm - squared value).
 - [Day 8: ]()
-	- Part I
-	- Part II
+	- ⭐ Part I
+	- ⭐ Part II
 - [Day 9: ]()
-	- Part I
-	- Part II
+	- ⭐ Part I
+	- ⭐ Part II
 - [Day 10: ]()
-	- Part I
-	- Part II
+	- ⭐ Part I
+	- ⭐ Part II
 - [Day 11: ]()
 	- Part I
 	- Part II
@@ -39,20 +43,20 @@
 	- Part I
 	- Part II
 - [Day 13: ]()
-	- Part I
-	- Part II
+	- ⭐ Part I
+	- ⭐ Part II
 - [Day 14: ]()
-	- Part I
+	- ⭐ Part I
 	- Part II
 - [Day 15: ]()
-	- Part I
+	- ⭐ Part I
 	- Part II
 - [Day 16: ]()
 	- Part I
 	- Part II
 - [Day 17: ]()
-	- Part I
-	- Part II
+	- ⭐ Part I
+	- ⭐ Part II
 - [Day 18: ]()
 	- Part I
 	- Part II
@@ -63,8 +67,8 @@
 	- Part I
 	- Part II
 - [Day 21: ]()
-	- Part I
-	- Part II
+	- ⭐ Part I
+	- ⭐ Part II
 - [Day 22: ]()
 	- Part I
 	- Part II
