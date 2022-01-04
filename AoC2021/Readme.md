@@ -1,6 +1,12 @@
 # Advent of Code 2021 Puzzles 
 [Advent of Code 2021](https://adventofcode.com/2021) | [MathWorld](https://mathworld.wolfram.com/)
 
+## Contents ⭐
+- [Day x : ]()
+    - Part I 
+    - Part II 
+
+
 ## Day 2021-12-07 Reflection
 After pondering various functions of `scikit-learn`, `scipy`, and `numpy.linalg` I got a key hint at *reddit*:
 
