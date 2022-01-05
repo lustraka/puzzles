@@ -27,20 +27,20 @@
 - [Day 7: The Treachery of Whales](AoC_01.ipynb)
 	- ⭐ Part I uses `sklearn.metrics.mean_absolute_error` and `np.median`.
 	- ⭐ Part II illustrates difference between median (L1 norm - absolute value) and mean (L2 norm - squared value).
-- [Day 8: ]()
+- [Day 8: Seven Segment Search](AoC_08.ipynb)
 	- ⭐ Part I
 	- ⭐ Part II
-- [Day 9: ]()
+- [Day 9: Smoke Basin](AoC_08.ipynb)
 	- ⭐ Part I
 	- ⭐ Part II
-- [Day 10: ]()
-	- ⭐ Part I
-	- ⭐ Part II
-- [Day 11: ]()
-	- Part I
+- [Day 10: Syntax Scoring](AoC_08.ipynb)
+	- ⭐ Part I uses classes `Node` and `Stack`
+	- ⭐ Part II uses classes `Node` and `Stack` and a method `np.median`
+- [Day 11: Dumbo Octopus](AoC_08.ipynb)
+	- Part I requires counting flashes of the dumbo octopuses in a cavern after 100 steps.
 	- Part II
-- [Day 12: ]()
-	- Part I
+- [Day 12: Passage Pathing](AoC_08.ipynb)
+	- Part I requires finding the number of distinct paths through the cave system from start ot end that visit small caves at most once.
 	- Part II
 - [Day 13: ]()
 	- ⭐ Part I
