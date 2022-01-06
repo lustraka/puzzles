@@ -27,30 +27,30 @@
 - [Day 7: The Treachery of Whales](AoC_01.ipynb)
 	- ⭐ Part I uses `sklearn.metrics.mean_absolute_error` and `np.median`.
 	- ⭐ Part II illustrates difference between median (L1 norm - absolute value) and mean (L2 norm - squared value).
-- [Day 8: ]()
-	- ⭐ Part I
-	- ⭐ Part II
-- [Day 9: ]()
-	- ⭐ Part I
-	- ⭐ Part II
-- [Day 10: ]()
-	- ⭐ Part I
-	- ⭐ Part II
-- [Day 11: ]()
-	- Part I
+- [Day 8: Seven Segment Search](AoC_08.ipynb)
+	- ⭐ Part I counts easy digits of the seven-segment display coded as signals to (randomly connected) segments.
+	- ⭐ Part II uses signal lenght, `set.difference` and `set.issubset` to decode wiring of the display and calculate the sum of values.
+- [Day 9: Smoke Basin](AoC_08.ipynb)
+	- ⭐ Part I uses an `np.array` matrix with methods `np.vstack`, `np.hstack`, and `np.reshape(-1,1) | (1,-1)`.
+	- ⭐ Part II uses a class `Basin` (incl. `__lt__()` method) to map basins in the heightmap.
+- [Day 10: Syntax Scoring](AoC_08.ipynb)
+	- ⭐ Part I uses classes `Node` and `Stack`.
+	- ⭐ Part II uses classes `Node` and `Stack` and a method `np.median`.
+- [Day 11: Dumbo Octopus](AoC_08.ipynb)
+	- Part I requires counting flashes of the dumbo octopuses in a cavern after 100 steps.
 	- Part II
-- [Day 12: ]()
-	- Part I
+- [Day 12: Passage Pathing](AoC_08.ipynb)
+	- Part I requires finding the number of distinct paths through the cave system from start to end that visit small caves at most once.
 	- Part II
-- [Day 13: ]()
-	- ⭐ Part I
-	- ⭐ Part II
-- [Day 14: ]()
-	- ⭐ Part I
-	- Part II
-- [Day 15: ]()
-	- ⭐ Part I
-	- Part II
+- [Day 13: Transparent Origami](AoC_13.ipynb)
+	- ⭐ Part I uses `np.array` and slicing to count the dots after a first fold of the paper.
+	- ⭐ Part II uses `np.piecewise` to visualize letters after folding the paper completely.
+- [Day 14: Extended Polymerization](AoC_13.ipynb)
+	- ⭐ Part I uses a `list` for a polymer, a `dict` for rules and `collections.Counter` to count frequencies of elements.
+	- Part II needs more memory-efficient algorithm
+- [Day 15: Chiton](AoC_13.ipynb) + [AoC_15vsc.ipynb](AoC_15vsc.ipynb)
+	- ⭐ Part I implements the Dijkstra algorithm to find the lowest risk path.
+	- Part II needs to expand the map and find the lowest risk path in expanded maze.
 - [Day 16: ]()
 	- Part I
 	- Part II
