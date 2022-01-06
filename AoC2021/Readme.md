@@ -50,7 +50,7 @@
 	- Part II needs more memory-efficient algorithm
 - [Day 15: Chiton](AoC_13.ipynb) + [AoC_15vsc.ipynb](AoC_15vsc.ipynb)
 	- ⭐ Part I implements the Dijkstra algorithm to find the lowest risk path.
-	- Part II needs to expand the map and find the lowest risk path in expanded maze.
+	- ⭐ Part II uses `np.where`, `np.hstack`, and `np.vstack` to build a full map, then the same Dikjkstra algorithm to find the lowest risk.
 - [Day 16: ]()
 	- Part I
 	- Part II
