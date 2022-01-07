@@ -36,9 +36,9 @@
 - [Day 10: Syntax Scoring](AoC_08.ipynb)
 	- ⭐ Part I uses classes `Node` and `Stack`.
 	- ⭐ Part II uses classes `Node` and `Stack` and a method `np.median`.
-- [Day 11: Dumbo Octopus](AoC_08.ipynb)
-	- Part I requires counting flashes of the dumbo octopuses in a cavern after 100 steps.
-	- Part II
+- [Day 11: Dumbo Octopus](AoC_11.ipynb)
+	- ⭐ Part I requires counting flashes of the dumbo octopuses in a cavern after 100 steps. The solution uses an expression `list(zip(*np.asarray(grid>9).nonzero()))` to initialize a list of positions to flash and an expression `set(get_neighbors(grid, current)) - set(to_flash + flashed)` to identify neighbours for processing the after-flash energy increase with eventual appeding the position to `to_flash` list. 
+	- ⭐ Part II uses the same algoritm, just a number of steps is not fixed but determined by a condition `grid.sum() == 0`.
 - [Day 12: Passage Pathing](AoC_08.ipynb)
 	- Part I requires finding the number of distinct paths through the cave system from start to end that visit small caves at most once.
 	- Part II
