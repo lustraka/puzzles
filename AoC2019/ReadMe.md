@@ -2,17 +2,17 @@
 [AoC 2019](https://adventofcode.com/2019) | [RealPython: AoC Tutorial](https://realpython.com/python-advent-of-code/#practicing-advent-of-code-day-1-2019) |
 
 ## Contents
-- [Day 1: ]()
-	- Part I
-	- Part II
-- [Day 2: ]()
-	- Part I
-	- Part II
-- [Day 3 : Crossed Wires](./03_crossed_wires/aoc201903.ipynb)
+- [Day 1: The Tyrany of the Rocket Equation](01_the_tyrany_of_the_rocket_equation)
+	- ⭐ Part I uses an integer division `//` and a generator (comprehension).
+	- ⭐ Part II solved with and without recurrsion. Also uses the waldrus opertor (available in Python 3.8 and later)
+- [Day 2: 1202 Program Alarm](02_1202_program_alarm)
+	- ⭐ Part I finds a value at position 0 after running an Intcode program.
+	- ⭐ Part II finds `noun and verb` values that cause the Intcode program to produce the required output.
+- [Day 3 : Crossed Wires](03_crossed_wires/aoc201903.ipynb)
     - ⭐ Part I solved using a numpy matrix.
     - Part II needs some tree search algorithm.
-- [Day 4: ]()
-	- Part I
+- [Day 4: Secure Container](04_secure_container/aoc201904.ipynb)
+	- Part I 
 	- Part II
 - [Day 5: ]()
 	- Part I
