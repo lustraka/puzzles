@@ -14,7 +14,7 @@
 - [Day 4: Secure Container](04_secure_container/aoc201904.ipynb)
 	- ⭐ Part I uses type conversions, `collection.Counter()`, and set operation (intersection).
 	- ⭐ Part II solved with a minor adjustement of an algorithm for part I.
-- [Day 5: Sunny wit a Chance of Asteroids](05_sunny_asteroids//oac201905.ipynb)
+- [Day 5: Sunny with a Chance of Asteroids](05_sunny_asteroids//oac201905.ipynb)
 	- Part I
 	- Part II
 - [Day 6: ]()
