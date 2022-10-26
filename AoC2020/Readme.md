@@ -1,10 +1,10 @@
 # Advent of Code 2020 Puzzles 
-[Advent of Code 2020](https://adventofcode.com/2020) 
+[Advent of Code 2020](https://adventofcode.com/2020) | [Reddit - AoC 2020](https://www.reddit.com/r/adventofcode/wiki/solution_megathreads/#wiki_december_2020)
 
 ## Contents 
-- [Day 1](https://adventofcode.com/2020/day/1): [[AoC20_01.ipynb](AoC20_01.ipynb)]
-  - Part I
-  - Part II
+- [Day 1](https://adventofcode.com/2020/day/1): Report Repair [[AoC20_01.ipynb](AoC20_01.ipynb)]
+  - ⭐ Part I uses `while` loop.
+  - ⭐ Part II features [itertools.combinations(iterable, r)](https://docs.python.org/3/library/itertools.html#itertools.combinations).
 - [Day 2](https://adventofcode.com/2020/day/2): [[AoC20_02.ipynb](AoC20_02.ipynb)]
   - Part I
   - Part II
