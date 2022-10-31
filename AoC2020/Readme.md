@@ -5,9 +5,9 @@
 - [Day 1](https://adventofcode.com/2020/day/1): Report Repair [[AoC20_01.ipynb](AoC20_01.ipynb)]
   - ⭐ Part I uses `while` loop.
   - ⭐ Part II features [itertools.combinations(iterable, r)](https://docs.python.org/3/library/itertools.html#itertools.combinations).
-- [Day 2](https://adventofcode.com/2020/day/2): [[AoC20_02.ipynb](AoC20_02.ipynb)]
-  - Part I
-  - Part II
+- [Day 2](https://adventofcode.com/2020/day/2): Password Philosophy [[AoC20_02.ipynb](AoC20_02.ipynb)]
+  - ⭐ Part I takes advantage of counting `True` as 1 (as an alternative to `for` loop). Also features the `Counter` dict from `collections.
+  - ⭐ Part II uses a similar boolean -> integer conversion as in Part I twice. Only positions in the string are checked.
 - [Day 3](https://adventofcode.com/2020/day/3): [[AoC20_03.ipynb](AoC20_03.ipynb)]
   - Part I
   - Part II
