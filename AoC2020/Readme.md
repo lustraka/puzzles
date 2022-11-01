@@ -8,9 +8,9 @@
 - [Day 2](https://adventofcode.com/2020/day/2): Password Philosophy [[AoC20_02.ipynb](AoC20_02.ipynb)]
   - ⭐ Part I takes advantage of counting `True` as 1 (as an alternative to `for` loop). Also features the `Counter` dict from `collections.
   - ⭐ Part II uses a similar boolean -> integer conversion as in Part I twice. Only positions in the string are checked.
-- [Day 3](https://adventofcode.com/2020/day/3): [[AoC20_03.ipynb](AoC20_03.ipynb)]
-  - Part I
-  - Part II
+- [Day 3](https://adventofcode.com/2020/day/3): Toboggan Trajectory [[AoC20_03.ipynb](AoC20_03.ipynb)]
+  - ⭐ Part I uses the modulo operator instead of repeating the map.
+  - ⭐ Part II uses the `math.prod` function with the solution of part I (it is one of [7 different ways how to multiply all numbers in the list](https://www.geeksforgeeks.org/python-multiply-numbers-list-3-different-ways/))
 - [Day 4](https://adventofcode.com/2020/day/4): [[AoC20_04.ipynb](AoC20_04.ipynb)]
   - Part I
   - Part II
