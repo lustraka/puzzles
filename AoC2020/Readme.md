@@ -17,9 +17,9 @@
 - [Day 5](https://adventofcode.com/2020/day/5): Binary Boarding [[AoC20_05.ipynb](AoC20_05.ipynb)]
   - ⭐ Part I suggests `str.maketrans` and `str.translate` instead `str.replace`. Here, also `int(str,2)` converts binary number to integer.
   - ⭐ Part II uses `set.difference` with `list.min` and `list.max` functions providing arguments to `range`.
-- [Day 6](https://adventofcode.com/2020/day/6): [[AoC20_06.ipynb](AoC20_06.ipynb)]
-  - Part I
-  - Part II
+- [Day 6](https://adventofcode.com/2020/day/6): Custom Customs [[AoC20_06.ipynb](AoC20_06.ipynb)]
+  - ⭐ Part I uses `set` and `str.replace` to count the union of sets.
+  - ⭐ Part II provides generalized solution for both parts using a dict with `set.union` and `set.intersection` methods. Further more operator `*` in the argument ensures unpacking a list into position arguments (`**` unpacks a dictionary into keyword arguments).
 - [Day 7](https://adventofcode.com/2020/day/7): [[AoC20_07.ipynb](AoC20_07.ipynb)]
   - Part I
   - Part II
