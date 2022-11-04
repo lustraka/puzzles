@@ -20,8 +20,8 @@
 - [Day 6](https://adventofcode.com/2020/day/6): Custom Customs [[AoC20_06.ipynb](AoC20_06.ipynb)]
   - ⭐ Part I uses `set` and `str.replace` to count the union of sets.
   - ⭐ Part II provides generalized solution for both parts using a dict with `set.union` and `set.intersection` methods. Further more operator `*` in the argument ensures unpacking a list into position arguments (`**` unpacks a dictionary into keyword arguments).
-- [Day 7](https://adventofcode.com/2020/day/7): [[AoC20_07.ipynb](AoC20_07.ipynb)]
-  - Part I
+- [Day 7](https://adventofcode.com/2020/day/7): Handy Haversacks [[AoC20_07.ipynb](AoC20_07.ipynb)]
+  - ⭐ Part I features a stack of colors to check. Input is parsed using `re` into a dictionary.
   - Part II
 - [Day 8](https://adventofcode.com/2020/day/8): [[AoC20_08.ipynb](AoC20_08.ipynb)]
   - Part I
