@@ -22,8 +22,8 @@
   - ⭐ Part II provides generalized solution for both parts using a dict with `set.union` and `set.intersection` methods. Further more operator `*` in the argument ensures unpacking a list into position arguments (`**` unpacks a dictionary into keyword arguments).
 - [Day 7](https://adventofcode.com/2020/day/7): Handy Haversacks [[AoC20_07.ipynb](AoC20_07.ipynb)]
   - ⭐ Part I features a stack of colors to check. Input is parsed using `re` into a dictionary.
-  - Part II
-- [Day 8](https://adventofcode.com/2020/day/8): [[AoC20_08.ipynb](AoC20_08.ipynb)]
+  - ⭐ Part II was demanding. It is solved by recursion with data from the calling function.
+- [Day 8](https://adventofcode.com/2020/day/8): Handheld Halting [[AoC20_08.ipynb](AoC20_08.ipynb)]
   - Part I
   - Part II
 - [Day 9](https://adventofcode.com/2020/day/9): [[AoC20_09.ipynb](AoC20_09.ipynb)]
