@@ -24,8 +24,8 @@
   - ⭐ Part I features a stack of colors to check. Input is parsed using `re` into a dictionary.
   - ⭐ Part II was demanding. It is solved by recursion with data from the calling function.
 - [Day 8](https://adventofcode.com/2020/day/8): Handheld Halting [[AoC20_08.ipynb](AoC20_08.ipynb)]
-  - Part I
-  - Part II
+  - ⭐ Part I executes instructions until cursor returns to the same row.
+  - ⭐ Part II creates a test set and test cases until the cursor reaches the end. **Beware** of assigning the same name to two different variables (`test` in this case)!
 - [Day 9](https://adventofcode.com/2020/day/9): [[AoC20_09.ipynb](AoC20_09.ipynb)]
   - Part I
   - Part II
