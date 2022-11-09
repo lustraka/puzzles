@@ -1,5 +1,6 @@
 # Advent of Code 2020 Puzzles 
-[Advent of Code 2020](https://adventofcode.com/2020) | [Reddit - AoC 2020](https://www.reddit.com/r/adventofcode/wiki/solution_megathreads/#wiki_december_2020)
+[Advent of Code 2020](https://adventofcode.com/2020) | [Reddit - AoC 2020](https://www.reddit.com/r/adventofcode/wiki/solution_megathreads/#wiki_december_2020) |
+[LaTeX/Math](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 
 ## Contents 
 - [Day 1](https://adventofcode.com/2020/day/1): Report Repair [[AoC20_01.ipynb](AoC20_01.ipynb)]
@@ -26,10 +27,10 @@
 - [Day 8](https://adventofcode.com/2020/day/8): Handheld Halting [[AoC20_08.ipynb](AoC20_08.ipynb)]
   - ⭐ Part I executes instructions until cursor returns to the same row.
   - ⭐ Part II creates a test set and test cases until the cursor reaches the end. **Beware** of assigning the same name to two different variables (`test` in this case)!
-- [Day 9](https://adventofcode.com/2020/day/9): [[AoC20_09.ipynb](AoC20_09.ipynb)]
-  - Part I
-  - Part II
-- [Day 10](https://adventofcode.com/2020/day/10): [[AoC20_10.ipynb](AoC20_10.ipynb)]
+- [Day 9](https://adventofcode.com/2020/day/9): Encoding Error [[AoC20_09.ipynb](AoC20_09.ipynb)]
+  - ⭐ Part I uses `itertools.combinations` to find an invalid number.
+  - ⭐ Part II describes variables in the markdown cell (incl. LaTeX expressions).
+- [Day 10](https://adventofcode.com/2020/day/10): Adapter Array [[AoC20_10.ipynb](AoC20_10.ipynb)]
   - Part I
   - Part II
 - [Day 11](https://adventofcode.com/2020/day/11): [[AoC20_11.ipynb](AoC20_11.ipynb)]
