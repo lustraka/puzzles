@@ -13,8 +13,10 @@ On top of all of this, challenging yourself with a programming puzzle is often p
 See RealPython > [Advent of Code: Solving Your Puzzles With Python](https://realpython.com/python-advent-of-code/).
 
 ## References
-- RealPython: [Python - Pathlib](https://realpython.com/python-pathlib/)
-- RealPython: [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/)
-- RealPython: [Walrus Operator](https://realpython.com/python-walrus-operator/)
+- [Learn Data Structures and Algorithms](https://www.enjoyalgorithms.com/data-structures-and-algorithms-course/)
+- RealPython: 
+  - [Python - Pathlib](https://realpython.com/python-pathlib/)
+  - [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/)
+  - [Walrus Operator](https://realpython.com/python-walrus-operator/)
 - [LaTeX/Math](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 - WilsonR-2016: **COMBINATORICS** A Very Short Introduction. A part of [VERY SHORT INTRODUCTIONS](https://www.oup.com/vsi) series. Downloaded 2022-11-10 from [PDFCOFFEE](https://pdfcoffee.com/qdownload/combinatorics-a-very-short-introduction-pdf-free.html). Accessible on my OneDrive [WilsonR-2016](https://1drv.ms/b/s!AikiH0T16G7Y9UP8WRuimYnIDh4B?e=e7QuRE).
