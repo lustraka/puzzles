@@ -16,3 +16,4 @@ See RealPython > [Advent of Code: Solving Your Puzzles With Python](https://real
 - RealPython: [Python - Pathlib](https://realpython.com/python-pathlib/)
 - RealPython: [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/)
 - RealPython: [Walrus Operator](https://realpython.com/python-walrus-operator/)
+- WilsonR-2016: **COMBINATORICS** A Very Short Introduction. A part of [VERY SHORT INTRODUCTIONS](https://www.oup.com/vsi) series. Downloaded 2022-11-10 from [PDFCOFFEE](https://pdfcoffee.com/qdownload/combinatorics-a-very-short-introduction-pdf-free.html). Uloženo na OneDrive [WilsonR-2016](https://1drv.ms/b/s!AikiH0T16G7Y9UP8WRuimYnIDh4B?e=e7QuRE).
