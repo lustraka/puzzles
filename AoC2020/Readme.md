@@ -31,8 +31,8 @@
   - ⭐ Part I uses `itertools.combinations` to find an invalid number.
   - ⭐ Part II describes variables in the markdown cell (incl. LaTeX expressions).
 - [Day 10](https://adventofcode.com/2020/day/10): Adapter Array [[AoC20_10.ipynb](AoC20_10.ipynb)]
-  - Part I
-  - Part II
+  - ⭐ Part I employs a `numpy` array and `collections.Counter`.
+  - Part II needs some advanced combinatorics.
 - [Day 11](https://adventofcode.com/2020/day/11): [[AoC20_11.ipynb](AoC20_11.ipynb)]
   - Part I
   - Part II
