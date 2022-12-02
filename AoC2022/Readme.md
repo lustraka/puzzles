@@ -7,7 +7,7 @@
   - ⭐ Part I uses `numpy`.
   - ⭐ Part II uses `numpy`.
 - [Day 2](https://adventofcode.com/2022/day/2): Rock Paper Scissors [[AoC22_02.ipynb](AoC22_02.ipynb)]
-  - Part I
+  - ⭐ Part I uses `str.maketrans` and `str.translate` to parse and then two dicts.
   - Part II
 - [Day 3](https://adventofcode.com/2022/day/3): [[AoC22_03.ipynb](AoC22_03.ipynb)]
   - Part I
