@@ -8,13 +8,13 @@
   - ⭐ Part II uses `numpy`.
 - [Day 2](https://adventofcode.com/2022/day/2): Rock Paper Scissors [[AoC22_02.ipynb](AoC22_02.ipynb)]
   - ⭐ Part I uses `str.maketrans` and `str.translate` to parse and then two dicts.
-  - Part II
-- [Day 3](https://adventofcode.com/2022/day/3): [[AoC22_03.ipynb](AoC22_03.ipynb)]
-  - Part I
-  - Part II
-- [Day 4](https://adventofcode.com/2022/day/4): [[AoC22_04.ipynb](AoC22_04.ipynb)]
-  - Part I
-  - Part II
+  - ⭐ Part II uses third dict and an auxiliary function to find the proper shape.
+- [Day 3](https://adventofcode.com/2022/day/3): Rucksack Reorganization [[AoC22_03.ipynb](AoC22_03.ipynb)]
+  - ⭐ Part I uses `set.intersection` and `[ord()](https://docs.python.org/3/library/functions.html#ord)` method to return an integer representing the Unicode code point of the character.
+  - ⭐ Part II is pretty similar to Part I.
+- [Day 4](https://adventofcode.com/2022/day/4): Camp Cleanup [[AoC22_04.ipynb](AoC22_04.ipynb)]
+  - ⭐ Part I just checks interval boundaries.
+  - ⭐ Part II swaps the order of ranges to simplify the overlap indication.
 - [Day 5](https://adventofcode.com/2022/day/5): [[AoC22_05.ipynb](AoC22_05.ipynb)]
   - Part I
   - Part II
