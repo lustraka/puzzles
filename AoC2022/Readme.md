@@ -15,9 +15,9 @@
 - [Day 4](https://adventofcode.com/2022/day/4): Camp Cleanup [[AoC22_04.ipynb](AoC22_04.ipynb)]
   - ⭐ Part I just checks interval boundaries.
   - ⭐ Part II swaps the order of ranges to simplify the overlap indication.
-- [Day 5](https://adventofcode.com/2022/day/5): [[AoC22_05.ipynb](AoC22_05.ipynb)]
-  - Part I
-  - Part II
+- [Day 5](https://adventofcode.com/2022/day/5): Supply Stacks [[AoC22_05.ipynb](AoC22_05.ipynb)]
+  - ⭐ Part I uses `regex` and `numpy` to model a giant cargo crane.
+  - ⭐ Part II uses list slicing and `list.extend` instead of `list.pop` and `list.append`.
 - [Day 6](https://adventofcode.com/2022/day/6): [[AoC22_06.ipynb](AoC22_06.ipynb)]
   - Part I
   - Part II
