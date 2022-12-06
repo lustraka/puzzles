@@ -18,9 +18,9 @@
 - [Day 5](https://adventofcode.com/2022/day/5): Supply Stacks [[AoC22_05.ipynb](AoC22_05.ipynb)]
   - ⭐ Part I uses `regex` and `numpy` to model a giant cargo crane.
   - ⭐ Part II uses list slicing and `list.extend` instead of `list.pop` and `list.append`.
-- [Day 6](https://adventofcode.com/2022/day/6): [[AoC22_06.ipynb](AoC22_06.ipynb)]
-  - Part I
-  - Part II
+- [Day 6](https://adventofcode.com/2022/day/6): Tuning Trouble [[AoC22_06.ipynb](AoC22_06.ipynb)]
+  - ⭐ Part I uses `len` of `set` of 4 sublist items.
+  - ⭐ Part II just alters one parameter.
 - [Day 7](https://adventofcode.com/2022/day/7): [[AoC22_07.ipynb](AoC22_07.ipynb)]
   - Part I
   - Part II
