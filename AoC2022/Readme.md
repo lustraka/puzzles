@@ -21,10 +21,10 @@
 - [Day 6](https://adventofcode.com/2022/day/6): Tuning Trouble [[AoC22_06.ipynb](AoC22_06.ipynb)]
   - ⭐ Part I uses `len` of `set` of 4 sublist items.
   - ⭐ Part II just alters one parameter.
-- [Day 7](https://adventofcode.com/2022/day/7): [[AoC22_07.ipynb](AoC22_07.ipynb)]
-  - Part I
-  - Part II
-- [Day 8](https://adventofcode.com/2022/day/8): [[AoC22_08.ipynb](AoC22_08.ipynb)]
+- [Day 7](https://adventofcode.com/2022/day/7): No Space Left On Device [[AoC22_07.ipynb](AoC22_07.ipynb)]
+  - ⭐ Part I uses a class `Node` to model a tree structure of filesystem and a class variable `Node.suma_at_most` and recursive class methods.
+  - ⭐ Part II uses a class variable `Node.sizes`.
+- [Day 8](https://adventofcode.com/2022/day/8): Treetop Tree House [[AoC22_08.ipynb](AoC22_08.ipynb)]
   - Part I
   - Part II
 - [Day 9](https://adventofcode.com/2022/day/9): [[AoC22_09.ipynb](AoC22_09.ipynb)]
