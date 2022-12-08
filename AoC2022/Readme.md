@@ -25,8 +25,8 @@
   - ⭐ Part I uses a class `Node` to model a tree structure of filesystem and a class variable `Node.suma_at_most` and recursive class methods.
   - ⭐ Part II uses a class variable `Node.sizes`.
 - [Day 8](https://adventofcode.com/2022/day/8): Treetop Tree House [[AoC22_08.ipynb](AoC22_08.ipynb)]
-  - Part I
-  - Part II
+  - ⭐ Part I uses the `numpy` array with transposition (`.T`), slicing, `.min()` and `.max()` methods.
+  - ⭐ Part II adds reversion and a custom function to calculate viewing distance.
 - [Day 9](https://adventofcode.com/2022/day/9): [[AoC22_09.ipynb](AoC22_09.ipynb)]
   - Part I
   - Part II
