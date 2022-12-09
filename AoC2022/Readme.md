@@ -27,9 +27,9 @@
 - [Day 8](https://adventofcode.com/2022/day/8): Treetop Tree House [[AoC22_08.ipynb](AoC22_08.ipynb)]
   - ⭐ Part I uses the `numpy` array with transposition (`.T`), slicing, `.min()` and `.max()` methods.
   - ⭐ Part II adds reversion and a custom function to calculate viewing distance.
-- [Day 9](https://adventofcode.com/2022/day/9): [[AoC22_09.ipynb](AoC22_09.ipynb)]
-  - Part I
-  - Part II
+- [Day 9](https://adventofcode.com/2022/day/9): Rope Bridge [[AoC22_09.ipynb](AoC22_09.ipynb)]
+  - Part I copies a [solution](https://www.reddit.com/r/adventofcode/comments/zgnice/comment/iziia6w/?utm_source=reddit&utm_medium=web2x&context=3) by *zniperr* with iterators. It is short and elegant, but I can hardly wrapp my head around it. How he was able to translate the problem into this algorithm?
+  - Part II - dtto.
 - [Day 10](https://adventofcode.com/2022/day/10): [[AoC22_10.ipynb](AoC22_10.ipynb)]
   - Part I
   - Part II
