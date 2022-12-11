@@ -30,7 +30,7 @@
 - [Day 9](https://adventofcode.com/2022/day/9): Rope Bridge [[AoC22_09.ipynb](AoC22_09.ipynb)]
   - Part I copies a [solution](https://www.reddit.com/r/adventofcode/comments/zgnice/comment/iziia6w/?utm_source=reddit&utm_medium=web2x&context=3) by *zniperr* with iterators. It is short and elegant, but I can hardly wrapp my head around it. How he was able to translate the problem into this algorithm?
   - Part II - dtto.
-- [Day 10](https://adventofcode.com/2022/day/10): [[AoC22_10.ipynb](AoC22_10.ipynb)]
+- [Day 10](https://adventofcode.com/2022/day/10): Cathode-Ray Tube [[AoC22_10.ipynb](AoC22_10.ipynb)]
   - Part I
   - Part II
 - [Day 11](https://adventofcode.com/2022/day/11): [[AoC22_11.ipynb](AoC22_11.ipynb)]
